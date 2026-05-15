@@ -78,7 +78,7 @@ export default function Home() {
       <section className="hero" aria-label="Cortex Machines">
         <div className="hero-text">
           <p className="eyebrow">Artificial intelligence research and product company.</p>
-          <h1>Cortex-Machines</h1>
+          <h1>Cortex Machines</h1>
           <p className="lede">
             Accountable intelligence for agents that act in the world.
           </p>
@@ -92,7 +92,7 @@ export default function Home() {
 
       <section className="statement-band" id="about">
         <p>
-          Cortex-Machines is an AI research and product company focused on
+          Cortex Machines is an AI research and product company focused on
           making autonomous systems more dependable, adaptable, and accountable
           in real-world work.
         </p>
