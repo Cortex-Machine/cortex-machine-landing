@@ -1,0 +1,6 @@
+<svg width="820" height="256" viewBox="0 0 820 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="40" y="40" width="176" height="176" stroke="#090909" stroke-width="12"/>
+  <path d="M118 92C100.327 92 86 106.327 86 124V132C86 149.673 100.327 164 118 164" stroke="#090909" stroke-width="15" stroke-linecap="square"/>
+  <path d="M118 164V92L144 134L170 92V164" stroke="#090909" stroke-width="15" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="256" y="146" fill="#090909" font-family="Inter, Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="0">Cortex-Machine</text>
+</svg>
