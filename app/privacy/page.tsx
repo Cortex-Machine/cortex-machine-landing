@@ -2,9 +2,9 @@ export default function PrivacyPage() {
   return (
     <main>
       <header className="site-header">
-        <a className="brand" href="/" aria-label="Cortex-Machine home">
+        <a className="brand" href="/" aria-label="Cortex-Machines home">
           <img className="brand-mark" src="/logo-mark.svg" alt="" aria-hidden="true" />
-          <span>Cortex-Machine</span>
+          <span>Cortex-Machines</span>
         </a>
         <nav aria-label="Primary navigation">
           <a href="/">Home</a>
@@ -16,7 +16,7 @@ export default function PrivacyPage() {
         <p className="eyebrow">Privacy</p>
         <h1>Privacy Policy</h1>
         <p>
-          Cortex-Machine is in private development. This site collects only the
+          Cortex-Machines is in private development. This site collects only the
           information you choose to send, such as an email message sent through a
           contact link.
         </p>
@@ -43,7 +43,7 @@ export default function PrivacyPage() {
         <h2>Contact</h2>
         <p>
           Questions can be sent to{" "}
-          <a href="mailto:sauravjaiswal999@gmail.com">privacy@cortex-machine.com</a>.
+          <a href="mailto:sauravjaiswal999@gmail.com">privacy@cortex-machines.com</a>.
         </p>
       </section>
     </main>

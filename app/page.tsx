@@ -19,9 +19,9 @@ const publicPrinciples = [
 
 function CortexLogo() {
   return (
-    <a className="brand" href="/" aria-label="Cortex-Machine home">
+    <a className="brand" href="/" aria-label="Cortex-Machines home">
       <img className="brand-mark" src="/logo-mark.svg" alt="" aria-hidden="true" />
-      <span>Cortex-Machine</span>
+      <span>Cortex Machines</span>
     </a>
   );
 }
@@ -75,10 +75,10 @@ export default function Home() {
         </nav>
       </header>
 
-      <section className="hero" aria-label="Cortex-Machine">
+      <section className="hero" aria-label="Cortex Machines">
         <div className="hero-text">
           <p className="eyebrow">Artificial intelligence research and product company.</p>
-          <h1>Cortex-Machine</h1>
+          <h1>Cortex-Machines</h1>
           <p className="lede">
             Accountable intelligence for agents that act in the world.
           </p>
@@ -92,7 +92,7 @@ export default function Home() {
 
       <section className="statement-band" id="about">
         <p>
-          Cortex-Machine is an AI research and product company focused on
+          Cortex-Machines is an AI research and product company focused on
           making autonomous systems more dependable, adaptable, and accountable
           in real-world work.
         </p>
@@ -116,9 +116,9 @@ export default function Home() {
       </section>
 
       <footer className="site-footer">
-        <p>Copyright © 2026 Cortex-Machine. All rights reserved.</p>
+        <p>Copyright © 2026 Cortex-Machines. All rights reserved.</p>
         <div>
-          <a href="https://github.com/Cortex-Machine" target="_blank" rel="noreferrer">
+          <a href="https://github.com/Cortex-Machines" target="_blank" rel="noreferrer">
             GitHub
           </a>
           <a href="/privacy">Privacy</a>

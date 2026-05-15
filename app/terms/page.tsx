@@ -23,14 +23,14 @@ export default function TermsPage() {
         <h2>Site content</h2>
         <p>
           The content on this site is provided for general informational
-          purposes. It does not disclose the full Cortex-Machine architecture,
+          purposes. It does not disclose the full Cortex-Machines architecture,
           roadmap, or implementation details.
         </p>
 
         <h2>Intellectual property</h2>
         <p>
-          Cortex-Machine names, marks, copy, visuals, and site materials are
-          owned by Cortex-Machine unless otherwise stated.
+          Cortex-Machines names, marks, copy, visuals, and site materials are
+          owned by Cortex-Machines unless otherwise stated.
         </p>
 
         <h2>No warranty</h2>
@@ -42,7 +42,7 @@ export default function TermsPage() {
         <h2>Contact</h2>
         <p>
           Questions can be sent to{" "}
-          <a href="mailto:sauravjaiswal999@gmail.com">terms@cortex-machine.com</a>.
+          <a href="mailto:sauravjaiswal999@gmail.com">terms@cortex-machines.com</a>.
         </p>
       </section>
     </main>
